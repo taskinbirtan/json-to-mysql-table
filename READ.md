@@ -9,7 +9,7 @@
 
 require_once 'vendor/autoload.php';
 
-use YourName\JsonToMysqlTable\JsonToMysqlTable;
+use TaskinBirtan\JsonToMysqlTable\JsonToMysqlTable;
 
 // create a new instance of the JsonToMysqlTable class
 $jsonToMysqlTable = new JsonToMysqlTable();
