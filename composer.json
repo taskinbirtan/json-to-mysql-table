@@ -1,0 +1,17 @@
+{
+    "name": "app/json-to-mysql-table",
+    "description": "Convert JSON data to MySQL table",
+    "type": "library",
+    "authors": [
+        {
+            "name": "John Doe",
+            "email": "john.doe@example.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\JsonToMysqlTable\\": "src/"
+        }
+    }
+}
