@@ -1,10 +1,10 @@
 {
-    "name": "app/json-to-mysql-table",
+    "name": "taskinbirtan/json-to-mysql-table",
     "description": "Convert JSON data to MySQL table",
     "type": "library",
     "authors": [
         {
-            "name": "John Doe",
+            "name": "Birtan Taskin",
             "email": "john.doe@example.com"
         }
     ],
