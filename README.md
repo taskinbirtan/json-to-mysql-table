@@ -6,7 +6,7 @@
 
 ``` 
 composer require taskinbirtan/json-to-mysql-table
-
+```
 
 
 ```php
