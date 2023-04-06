@@ -4,8 +4,8 @@
 ## Installation
 ## You can install the library using Composer. If you don't already have Composer installed, you can download it from https://getcomposer.org/.
 
- 
-### composer require taskinbirtan/json-to-mysql-table
+``` 
+composer require taskinbirtan/json-to-mysql-table
 
 
 
